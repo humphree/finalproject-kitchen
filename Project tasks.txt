@@ -1,0 +1,10 @@
+Program Management:
+
+1:  Ken
+	Tasks: logos, buttons, background
+	
+2:  Justin:
+	Tasks:  Storyboard, style guide, mockups
+	
+3:  Eleanor:
+	Tasks:  html/css coding
